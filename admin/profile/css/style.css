@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'iranykan';
-    src: url('@../../../../../Font/Yekan.eot') format('eot'),
-    url('../../../../../Font/Yekan.woff') format('woff'),
-    url('../../../../../Font/Yekan.svg') format('svg'),
-    url('../../../../../Font/Yekan.ttf') format('ttf');
+    src: url('@../../../Font/Yekan.eot') format('eot'),
+    url('../../../Font/Yekan.woff') format('woff'),
+    url('../../../Font/Yekan.svg') format('svg'),
+    url('../../../Font/Yekan.ttf') format('ttf');
 }
 
 body{
