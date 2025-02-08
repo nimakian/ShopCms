@@ -24,7 +24,7 @@ templateMainHeader.innerHTML = `
                 <a href="users/SingUp.html">ثبت نام</a>
             </div>
 
-            <a href="/cart.html" id="Cart">
+            <a href="cart.html" id="Cart">
                 <i class="fa-solid fa-cart-shopping fa-flip-horizontal" style="color: #424750;"></i>    
                 <div class="NumberProducts">
                     <p class="TextNumberProducts">1</p>
